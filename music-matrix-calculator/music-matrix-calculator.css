@@ -1,6 +1,7 @@
 * {
     font-family: Arial, Helvetica, sans-serif;
     flex-shrink: 0 !important;
+    color: black;
 }
 html {
     min-width: fit-content;
@@ -53,6 +54,8 @@ button {
     border-radius: 5px;
     background-color: white;
     margin: 2px;
+    flex-wrap: nowrap;
+    text-wrap: nowrap;
 }
 button:hover {
     background-color: rgb(239, 239, 239);
