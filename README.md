@@ -9,6 +9,6 @@
 
 #### I'm a student at Oakland University...
 
-...but I'm almost done! Check out my [senior capstone](https://www.soundsbyjoel.com/joelebutler)!
+...but I'm almost done! Check out my [senior capstone](https://www.soundsbyjoel.com/products/COLSYN)!
 
 ##### 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/joelebutler/)
