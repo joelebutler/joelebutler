@@ -11,4 +11,4 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)\
 [![Connect on LinkedIn](https://img.shields.io/badge/💻_Connect_on_LinkedIn-0072B1?style=for-the-badge&logo=&logoColor=white)](https://www.linkedin.com/in/joelebutler)
-[![Check out COLSYN](https://img.shields.io/badge/🎹_Check_out_COLSYN-a855f7?style=for-the-badge&logo=&logoColor=white)](https://www.linkedin.com/in/joelebutler)
+[![Check out COLSYN](https://img.shields.io/badge/🎹_Check_out_COLSYN-a855f7?style=for-the-badge&logo=&logoColor=white)](https://www.soundsbyjoel.com/products/COLSYN)
